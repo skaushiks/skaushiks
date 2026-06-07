@@ -29,11 +29,11 @@
 ## 🌟 Featured Projects
 <h3><a href="https://gist.github.com/skaushiks/99b88e56eff46ae6aa92c6c79c0f7a73" target="blank">Multi-Agent Research & Report Generation System</a></h3>
 <p align="left">A LangGraph-powered multi-agent system that autonomously researches topics, performs fact-checking, gathers citations, and generates structured reports using persistent memory and retrieval workflows.</p>
-<p align="left"><b>Tech Stack:</b> LangChain . LangGraph · OpenAI · Qdrant · Mem0 . Neo4j . FastAPI</p>
+<p align="left"><b>Tech Stack:</b> LangChain . LangGraph · OpenAI · Qdrant · Mem0 . Neo4j . FastAPI . Tavily/SerpAPI (web search tool)</p>
 
 <h3><a href="https://gist.github.com/skaushiks/99b88e56eff46ae6aa92c6c79c0f7a73" target="blank">Codebase Intelligence Agent</a></h3>
 <p align="left">An agentic RAG system capable of understanding entire GitHub repositories, answering codebase questions, performing dependency tracing, and maintaining contextual memory across conversations.</p>
-<p align="left"><b>Tech Stack:</b> LangChain . LangGraph · OpenAI · Qdrant · Mem0 . GitPython . FastAPI · Streamlit</p>
+<p align="left"><b>Tech Stack:</b> LangChain . LangGraph · OpenAI · Qdrant · Mem0 . GitPython · Streamlit</p>
 
 ---
 
