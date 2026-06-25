@@ -3,6 +3,7 @@
 <p align="center"> Building intelligent software systems, AI agents, RAG applications, and scalable backend platforms.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skaushiks&label=Profile%20Views&color=0e75b6&style=flat" alt="skaushiks" /> </p>
 <p> Portfolio: <a href="https://nilesh-sankrityayan.netlify.app">https://nilesh-sankrityayan.netlify.app</a></p>
+<p> Multi-Agent PoCs: <a href="https://gist.github.com/skaushiks">https://gist.github.com/skaushiks</a></p>
 
 ---
 
@@ -27,9 +28,9 @@
 --- 
 
 ## 🌟 Featured Projects
-<h3><a href="https://gist.github.com/skaushiks/99b88e56eff46ae6aa92c6c79c0f7a73" target="blank">Multi-Agent Research & Report Generation System</a></h3>
+<h3><a href="https://gist.github.com/skaushiks/01fc5e2d424c568eacec2efad8bac4d0" target="blank">Multi-Agent Research & Report Generation System</a></h3>
 <p align="left">A LangGraph-powered multi-agent system that autonomously researches topics, performs fact-checking, gathers citations, and generates structured reports using persistent memory and retrieval workflows.</p>
-<p align="left"><b>Tech Stack:</b> LangChain . LangGraph · OpenAI · Qdrant · Mem0 . Neo4j . FastAPI . Tavily/SerpAPI (web search tool)</p>
+<p align="left"><b>Tech Stack:</b> LangChain . LangGraph · OpenAI · Qdrant · Mem0 . Neo4j . FastAPI . Tavily API (web search tool)</p>
 
 <h3><a href="https://gist.github.com/skaushiks/99b88e56eff46ae6aa92c6c79c0f7a73" target="blank">Codebase Intelligence Agent</a></h3>
 <p align="left">An agentic RAG system capable of understanding entire GitHub repositories, answering codebase questions, performing dependency tracing, and maintaining contextual memory across conversations.</p>
